@@ -1,6 +1,6 @@
 import React, {Component} from 'React'
 
-class todolist extends Component {
+class todolist extends React.Component {
     constructor(props) {
         super(props)
 
